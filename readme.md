@@ -1,6 +1,6 @@
-Basic Rest Api tutorils 
+Basic Rest Api tutorials 
 
-npm install
+
 
 post => localhost:4000/api/blog <br />
 get => localhost:4000/api/blog <br />
