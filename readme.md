@@ -1,9 +1,40 @@
-Basic Rest Api  blog crud operations  
 
 
 
-post => localhost:4000/api/blog <br />
-get => localhost:4000/api/blog <br />
-put => localhost:4000/api/blog/{id} <br />
-delete => localhost:4000/api/blog/{id} <br />
+
+
+
+Rest Api  blog crud operations  
+====================================================
+
+
+
+Preparation 
+------------
+```
+npm  install
+```
+
+
+Starting application 
+--------------------
+```
+ node app.js
+```
+
+
+API endpoints
+--------------------
+```
+https://localhost:4000/api
+```
+
+`/api/blog` Get - Get blogs.
+
+`/api/blog` Post - Create blog.
+
+`/api/blog/:id` Put - Put blog.
+
+`/api/blog/:id` Delete - Delete single Blog.
+
 
