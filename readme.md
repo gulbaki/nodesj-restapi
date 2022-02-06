@@ -19,7 +19,7 @@ npm  install
 Starting application 
 --------------------
 ```
- node app.js
+ node index.js
 ```
 
 
